@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "common-bin": "^2.8.3",
-    "egg-bin": "^4.10.0",
+    "egg-bin": "^4.20.0",
     "egg-mock": "^3.21.0",
     "node-sass": "^4.13.1"
   }
